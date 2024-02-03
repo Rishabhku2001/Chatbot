@@ -7,4 +7,4 @@ qdrant_client==1.7.2
 streamlit
 langchain
 langchain_openai
-faiss-gpu
+faiss-cpu
