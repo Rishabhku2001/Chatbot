@@ -4,8 +4,7 @@ import numpy as np
 import os
 import getpass
 
-os.environ[
-    'OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = "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"
 
 from langchain_openai import ChatOpenAI
 
