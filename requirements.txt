@@ -5,3 +5,5 @@ langchainhub==0.1.14
 langkit==0.0.29
 qdrant_client==1.7.2
 streamlit
+langchain
+langchain_openai
